@@ -1,0 +1,246 @@
+{
+  "name": "Amazon Polly",
+  "value": "polly",
+  "defaultVoice": "Joanna",
+	"voices": [
+	  {
+	    "language": "Arabic",
+	    "voices": [
+	      { "name": "Zeina", "value": "Zeina", "description": "Arabic, female" }
+	    ]
+	  },
+	  {
+	    "language": "Chinese (Mandarin)",
+	    "voices": [
+	      { "name": "Zhiyu", "value": "Zhiyu", "description": "Chinese (Mandarin), female" }
+	    ]
+	  },
+	  {
+	    "language": "Danish",
+	    "voices": [
+	      { "name": "Naja", "value": "Naja", "description": "Danish, female" },
+	      { "name": "Mads", "value": "Mads", "description": "Danish, male" }
+	    ]
+	  },
+	  {
+	    "language": "Dutch",
+	    "voices": [
+	      { "name": "Lotte", "value": "Lotte", "description": "Dutch, female" },
+	      { "name": "Ruben", "value": "Ruben", "description": "Dutch, male" }
+	    ]
+	  },
+	  {
+	    "language": "English (Australian)",
+	    "voices": [
+	      { "name": "Nicole", "value": "Nicole", "description": "Australian English, female" },
+	      { "name": "Olivia", "value": "Olivia", "description": "Australian English, female" },
+	      { "name": "Russell", "value": "Russell", "description": "Australian English, male" }
+	    ]
+	  },
+	  {
+	    "language": "English (British)",
+	    "voices": [
+	      { "name": "Amy", "value": "Amy", "description": "British English, female" },
+	      { "name": "Emma", "value": "Emma", "description": "British English, female" },
+	      { "name": "Brian", "value": "Brian", "description": "British English, male" },
+	      { "name": "Arthur", "value": "Arthur", "description": "British English, male" }
+	    ]
+	  },
+	  {
+	    "language": "English (Indian)",
+	    "voices": [
+	      { "name": "Aditi", "value": "Aditi", "description": "Indian English, female" },
+	      { "name": "Raveena", "value": "Raveena", "description": "Indian English, female" },
+	      { "name": "Kajal", "value": "Kajal", "description": "Indian English, female" }
+	    ]
+	  },
+	  {
+	    "language": "English (New Zealand)",
+	    "voices": [
+	      { "name": "Aria", "value": "Aria", "description": "New Zealand English, female" }
+	    ]
+	  },
+	  {
+	    "language": "English (South African)",
+	    "voices": [
+	      { "name": "Ayanda", "value": "Ayanda", "description": "South African English, female" }
+	    ]
+	  },
+	  {
+	    "language": "English (US)",
+	    "voices": [
+	      { "name": "Ivy", "value": "Ivy", "description": "US English, female child" },
+	      { "name": "Joanna", "value": "Joanna", "description": "US English, female" },
+	      { "name": "Kendra", "value": "Kendra", "description": "US English, female" },
+	      { "name": "Kimberly", "value": "Kimberly", "description": "US English, female" },
+	      { "name": "Salli", "value": "Salli", "description": "US English, female" },
+	      { "name": "Joey", "value": "Joey", "description": "US English, male" },
+	      { "name": "Justin", "value": "Justin", "description": "US English, male child" },
+	      { "name": "Kevin", "value": "Kevin", "description": "US English, male child" },
+	      { "name": "Matthew", "value": "Matthew", "description": "US English, male" },
+	      { "name": "Ruth", "value": "Ruth", "description": "US English, female" },
+	      { "name": "Stephen", "value": "Stephen", "description": "US English, male" }
+	    ]
+	  },
+	  {
+	    "language": "English (Welsh)",
+	    "voices": [
+	      { "name": "Geraint", "value": "Geraint", "description": "Welsh English, male" }
+	    ]
+	  },
+	  {
+	    "language": "French",
+	    "voices": [
+	      { "name": "Céline", "value": "Celine", "description": "French, female" },
+	      { "name": "Léa", "value": "Lea", "description": "French, female" },
+	      { "name": "Mathieu", "value": "Mathieu", "description": "French, male" },
+	      { "name": "Rémi", "value": "Remi", "description": "French, male" }
+	    ]
+	  },
+	  {
+	    "language": "French (Canadian)",
+	    "voices": [
+	      { "name": "Chantal", "value": "Chantal", "description": "Canadian French, female" },
+	      { "name": "Gabrielle", "value": "Gabrielle", "description": "Canadian French, female" }
+	    ]
+	  },
+	  {
+	    "language": "German",
+	    "voices": [
+	      { "name": "Marlene", "value": "Marlene", "description": "German, female" },
+	      { "name": "Vicki", "value": "Vicki", "description": "German, female" },
+	      { "name": "Hans", "value": "Hans", "description": "German, male" },
+	      { "name": "Daniel", "value": "Daniel", "description": "German, male" }
+	    ]
+	  },
+	  {
+	    "language": "German (Austrian)",
+	    "voices": [
+	      { "name": "Hannah", "value": "Hannah", "description": "Austrian German, female" }
+	    ]
+	  },
+	  {
+	    "language": "Hindi",
+	    "voices": [
+	      { "name": "Aditi", "value": "Aditi", "description": "Hindi, female" }
+	    ]
+	  },
+	  {
+	    "language": "Icelandic",
+	    "voices": [
+	      { "name": "Dóra", "value": "Dora", "description": "Icelandic, female" },
+	      { "name": "Karl", "value": "Karl", "description": "Icelandic, male" }
+	    ]
+	  },
+	  {
+	    "language": "Italian",
+	    "voices": [
+	      { "name": "Carla", "value": "Carla", "description": "Italian, female" },
+	      { "name": "Bianca", "value": "Bianca", "description": "Italian, female" },
+	      { "name": "Giorgio", "value": "Giorgio", "description": "Italian, male" }
+	    ]
+	  },
+	  {
+	    "language": "Japanese",
+	    "voices": [
+	      { "name": "Mizuki", "value": "Mizuki", "description": "Japanese, female" },
+	      { "name": "Takumi", "value": "Takumi", "description": "Japanese, male" },
+	      { "name": "Kazuha", "value": "Kazuha", "description": "Japanese, female" },
+	      { "name": "Tomoko", "value": "Tomoko", "description": "Japanese, female" }
+	    ]
+	  },
+	  {
+	    "language": "Korean",
+	    "voices": [
+	      { "name": "Seoyeon", "value": "Seoyeon", "description": "Korean, female" }
+	    ]
+	  },
+	  {
+	    "language": "Norwegian",
+	    "voices": [
+	      { "name": "Liv", "value": "Liv", "description": "Norwegian, female" },
+	      { "name": "Ida", "value": "Ida", "description": "Norwegian, female" }
+	    ]
+	  },
+	  {
+	    "language": "Polish",
+	    "voices": [
+	      { "name": "Ewa", "value": "Ewa", "description": "Polish, female" },
+	      { "name": "Maja", "value": "Maja", "description": "Polish, female" },
+	      { "name": "Jacek", "value": "Jacek", "description": "Polish, male" },
+	      { "name": "Jan", "value": "Jan", "description": "Polish, male" }
+	    ]
+	  },
+	  {
+	    "language": "Portuguese (Brazilian)",
+	    "voices": [
+	      { "name": "Camila", "value": "Camila", "description": "Brazilian Portuguese, female" },
+	      { "name": "Vitória", "value": "Vitoria", "description": "Brazilian Portuguese, female" },
+	      { "name": "Ricardo", "value": "Ricardo", "description": "Brazilian Portuguese, male" },
+	      { "name": "Thiago", "value": "Thiago", "description": "Brazilian Portuguese, male" }
+	    ]
+	  },
+	  {
+	    "language": "Portuguese (European)",
+	    "voices": [
+	      { "name": "Inês", "value": "Ines", "description": "European Portuguese, female" },
+	      { "name": "Cristiano", "value": "Cristiano", "description": "European Portuguese, male" }
+	    ]
+	  },
+	  {
+	    "language": "Romanian",
+	    "voices": [
+	      { "name": "Carmen", "value": "Carmen", "description": "Romanian, female" }
+	    ]
+	  },
+	  {
+	    "language": "Russian",
+	    "voices": [
+	      { "name": "Tatyana", "value": "Tatyana", "description": "Russian, female" },
+	      { "name": "Maxim", "value": "Maxim", "description": "Russian, male" }
+	    ]
+	  },
+	  {
+	    "language": "Spanish (European)",
+	    "voices": [
+	      { "name": "Conchita", "value": "Conchita", "description": "European Spanish, female" },
+	      { "name": "Lucia", "value": "Lucia", "description": "European Spanish, female" },
+	      { "name": "Enrique", "value": "Enrique", "description": "European Spanish, male" }
+	    ]
+	  },
+	  {
+	    "language": "Spanish (Mexican)",
+	    "voices": [
+	      { "name": "Mia", "value": "Mia", "description": "Mexican Spanish, female" }
+	    ]
+	  },
+	  {
+	    "language": "Spanish (US)",
+	    "voices": [
+	      { "name": "Lupe", "value": "Lupe", "description": "US Spanish, female" },
+	      { "name": "Penélope", "value": "Penelope", "description": "US Spanish, female" },
+	      { "name": "Miguel", "value": "Miguel", "description": "US Spanish, male" },
+	      { "name": "Pedro", "value": "Pedro", "description": "US Spanish, male" }
+	    ]
+	  },
+	  {
+	    "language": "Swedish",
+	    "voices": [
+	      { "name": "Astrid", "value": "Astrid", "description": "Swedish, female" },
+	      { "name": "Elin", "value": "Elin", "description": "Swedish, female" }
+	    ]
+	  },
+	  {
+	    "language": "Turkish",
+	    "voices": [
+	      { "name": "Filiz", "value": "Filiz", "description": "Turkish, female" }
+	    ]
+	  },
+	  {
+	    "language": "Welsh",
+	    "voices": [
+	      { "name": "Gwyneth", "value": "Gwyneth", "description": "Welsh, female" }
+	    ]
+	  }
+	]
+      }

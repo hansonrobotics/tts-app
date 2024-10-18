@@ -1,0 +1,109 @@
+{
+  "name": "Microsoft Azure",
+  "value": "azure",
+  "defaultVoice": "Guy",
+  "voices": [
+    {
+      "language": "Arabic (Saudi Arabia)",
+      "voices": [
+        { "name": "Zariyah", "value": "ar-SA-ZariyahNeural", "description": "Female" },
+        { "name": "Hamed", "value": "ar-SA-HamedNeural", "description": "Male" }
+      ]
+    },
+    {
+      "language": "Chinese (Mandarin, Simplified)",
+      "voices": [
+        { "name": "Xiaoxiao", "value": "zh-CN-XiaoxiaoNeural", "description": "Female" },
+        { "name": "Yunyang", "value": "zh-CN-YunyangNeural", "description": "Male" },
+        { "name": "Xiaohan", "value": "zh-CN-XiaohanNeural", "description": "Female" }
+      ]
+    },
+    {
+      "language": "English (UK)",
+      "voices": [
+        { "name": "Libby", "value": "en-GB-LibbyNeural", "description": "Female" },
+        { "name": "Ryan", "value": "en-GB-RyanNeural", "description": "Male" },
+        { "name": "Sonia", "value": "en-GB-SoniaNeural", "description": "Female" }
+      ]
+    },
+    {
+      "language": "English (US)",
+      "voices": [
+        { "name": "Guy", "value": "en-US-GuyNeural", "description": "Male" },
+        { "name": "Jenny", "value": "en-US-JennyNeural", "description": "Female" },
+        { "name": "Aria", "value": "en-US-AriaNeural", "description": "Female" },
+        { "name": "Davis", "value": "en-US-DavisNeural", "description": "Male" },
+        { "name": "Tony", "value": "en-US-TonyNeural", "description": "Male" },
+        { "name": "Nancy", "value": "en-US-NancyNeural", "description": "Female" }
+      ]
+    },
+    {
+      "language": "French (France)",
+      "voices": [
+        { "name": "Denise", "value": "fr-FR-DeniseNeural", "description": "Female" },
+        { "name": "Henri", "value": "fr-FR-HenriNeural", "description": "Male" },
+        { "name": "Elise", "value": "fr-FR-EliseNeural", "description": "Female" }
+      ]
+    },
+    {
+      "language": "German (Germany)",
+      "voices": [
+        { "name": "Katja", "value": "de-DE-KatjaNeural", "description": "Female" },
+        { "name": "Conrad", "value": "de-DE-ConradNeural", "description": "Male" },
+        { "name": "Amala", "value": "de-DE-AmalaNeural", "description": "Female" }
+      ]
+    },
+    {
+      "language": "Hindi (India)",
+      "voices": [
+        { "name": "Swara", "value": "hi-IN-SwaraNeural", "description": "Female" },
+        { "name": "Madhur", "value": "hi-IN-MadhurNeural", "description": "Male" }
+      ]
+    },
+    {
+      "language": "Italian (Italy)",
+      "voices": [
+        { "name": "Elsa", "value": "it-IT-ElsaNeural", "description": "Female" },
+        { "name": "Diego", "value": "it-IT-DiegoNeural", "description": "Male" },
+        { "name": "Isabella", "value": "it-IT-IsabellaNeural", "description": "Female" }
+      ]
+    },
+    {
+      "language": "Japanese (Japan)",
+      "voices": [
+        { "name": "Nanami", "value": "ja-JP-NanamiNeural", "description": "Female" },
+        { "name": "Keita", "value": "ja-JP-KeitaNeural", "description": "Male" },
+        { "name": "Shiori", "value": "ja-JP-ShioriNeural", "description": "Female" }
+      ]
+    },
+    {
+      "language": "Korean (Korea)",
+      "voices": [
+        { "name": "Sun-Hi", "value": "ko-KR-SunHiNeural", "description": "Female" },
+        { "name": "In-Jun", "value": "ko-KR-InJoonNeural", "description": "Male" }
+      ]
+    },
+    {
+      "language": "Portuguese (Brazil)",
+      "voices": [
+        { "name": "Francisca", "value": "pt-BR-FranciscaNeural", "description": "Female" },
+        { "name": "Antonio", "value": "pt-BR-AntonioNeural", "description": "Male" }
+      ]
+    },
+    {
+      "language": "Russian (Russia)",
+      "voices": [
+        { "name": "Svetlana", "value": "ru-RU-SvetlanaNeural", "description": "Female" },
+        { "name": "Dmitry", "value": "ru-RU-DmitryNeural", "description": "Male" }
+      ]
+    },
+    {
+      "language": "Spanish (Spain)",
+      "voices": [
+        { "name": "Elvira", "value": "es-ES-ElviraNeural", "description": "Female" },
+        { "name": "Alvaro", "value": "es-ES-AlvaroNeural", "description": "Male" },
+        { "name": "Estrella", "value": "es-ES-EstrellaNeural", "description": "Female" }
+      ]
+    }
+  ]
+}
